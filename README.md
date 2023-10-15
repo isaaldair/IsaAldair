@@ -1,14 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-**IsaacAldairAvila/IsaacAldairAvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaac Aldair Avila, and this is my GitHub profile. 🚀
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Python for data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Englih
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌐 My interests include experimenting with various libraries:
+⚛️ React.js | ⚡ Next.js | 📦 Material-UI | 🌈 Tailwind CSS | 🗺️ Deck.gl | 🐳 Docker | 🎨 Figma
+
+📊 Data Handling with: 
+🐘 PostgreSQL | ☁️ Firebase | 🍃 MongoDB | 📋 JSON | 🌍 GeoJSON
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions!
+
+Thanks for visiting! 😊
