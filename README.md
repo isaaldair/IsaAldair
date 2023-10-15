@@ -5,7 +5,7 @@ I'm Isaac Aldair Avila, and this is my GitHub profile. 🚀
 🌱 I’m currently learning Python for data engineering.
 
 
-### 🌐 My interests include experimenting with various libraries:
+### 🌐 My interests include experimenting with various tools:
 
 ⚛️ React.js | ⚡ Next.js | 📦 Material-UI | 🌈 Tailwind CSS | 🗺️ Deck.gl | 🐳 Docker | 🎨 Figma
 
